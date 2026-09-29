@@ -1,0 +1,9 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.idea/
+
+# Dependencias, por si en algún momento agregás alguna herramienta
+node_modules/
